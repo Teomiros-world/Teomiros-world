@@ -1,5 +1,5 @@
-- I’m @Teomiros-world
-- j's an cute lil teddy 
+- I’m @mr.gnosis
+- j's a
 
 <!---
 Teomiros-world/Teomiros-world is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
